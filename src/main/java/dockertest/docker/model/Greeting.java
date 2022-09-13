@@ -22,4 +22,5 @@ public class Greeting {
     public Greeting(String message) {
         this.message = message;
     }
+
 }

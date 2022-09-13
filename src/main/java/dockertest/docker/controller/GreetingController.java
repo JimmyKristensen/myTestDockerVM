@@ -23,5 +23,4 @@ public class GreetingController {
         return new ResponseEntity<Greeting>(greeting, HttpStatus.OK);
     }
 
-
 }
